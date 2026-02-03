@@ -62,7 +62,8 @@ I enjoy turning raw data into meaningful insights and building practical solutio
 ### 🍽️ Exploratory Data Analysis on Zomato Dataset
 - Exploratory data analysis on large-scale Zomato datasets (100K–5M+ rows)  
 - Data cleaning, transformation, and regression analysis  
-- Consumer behavior and restaurant performance insights  
+- Consumer behavior and restaurant performance insights
+  
 🔗 Repository: *Pinned on profile*
 
 ---
@@ -79,7 +80,8 @@ I enjoy turning raw data into meaningful insights and building practical solutio
 ### 🎬 Movie Dataset – Exploratory Data Analysis (EDA)
 - Exploratory analysis to identify trends in movie performance  
 - Factors influencing IMDb ratings and box office revenue  
-- Insights prepared for future predictive modeling  
+- Insights prepared for future predictive modeling
+  
 🔗 Repository: *Pinned on profile*
 
 ---
