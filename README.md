@@ -28,7 +28,8 @@ I enjoy turning raw data into meaningful insights and building practical solutio
 - Java
 
 **Data & ML**
-- Pandas, NumPy
+- Pandas
+-  NumPy
 - Scikit-learn
 - Matplotlib
 - Seaborn
