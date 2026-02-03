@@ -59,12 +59,27 @@ I enjoy turning raw data into meaningful insights and building practical solutio
 🔗 Repository: *Pinned on profile*
 
 ---
+### 🍽️ Exploratory Data Analysis on Zomato Dataset
+- Exploratory data analysis on large-scale Zomato datasets (100K–5M+ rows)  
+- Data cleaning, transformation, and regression analysis  
+- Consumer behavior and restaurant performance insights  
+🔗 Repository: *Pinned on profile*
+
+---
 
 ### 📚 AI-Enhanced Library Management System
 - Django-based system with face recognition login
 - KNN clustering for data mining
 - Virtual mouse tracking
 
+🔗 Repository: *Pinned on profile*
+
+---
+
+### 🎬 Movie Dataset – Exploratory Data Analysis (EDA)
+- Exploratory analysis to identify trends in movie performance  
+- Factors influencing IMDb ratings and box office revenue  
+- Insights prepared for future predictive modeling  
 🔗 Repository: *Pinned on profile*
 
 ---
