@@ -25,22 +25,17 @@ I enjoy turning raw data into meaningful insights and building practical solutio
 **Programming & Querying**
 - Python
 - SQL
-- Java
 
 **Data & ML**
 - Pandas
 -  NumPy
-- Scikit-learn
 - Matplotlib
 - Seaborn
-- OpenCV
 
 **Frameworks & Tools**
-- MySQL
+- MySQL Workbench
 - Excel
 - Power BI
-- Git & GitHub
-
 
 **Soft Skills**
 - Communication
@@ -51,6 +46,14 @@ I enjoy turning raw data into meaningful insights and building practical solutio
 ---
 
 ## 📂 Featured Projects
+
+### 📊 HR Analytics Dashboard
+- Interactive dashboard to analyze employee data and attrition trends  
+- Workforce insights including demographics, department performance, and KPIs  
+- Data-driven insights to support HR decision-making  
+
+🔗 Repository: *Pinned on profile*
+
 
 ### 🛍️ SQL Retail Sales Analysis
 - Data cleaning, exploration & business analysis using SQL
