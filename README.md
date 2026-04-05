@@ -38,9 +38,10 @@ I enjoy turning raw data into meaningful insights and building practical solutio
 - Power BI
 
 **Soft Skills**
-- Communication
-- Leadership
-- Problem Solving
+- Analytical  skill
+- Critical Thinking
+- Problem-solving skills
+- Storytelling
 - Team Collaboration
 
 ---
@@ -54,6 +55,7 @@ I enjoy turning raw data into meaningful insights and building practical solutio
 
 🔗 Repository: *Pinned on profile*
 
+---
 
 ### 🛍️ SQL Retail Sales Analysis
 - Data cleaning, exploration & business analysis using SQL
